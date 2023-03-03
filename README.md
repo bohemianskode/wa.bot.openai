@@ -36,7 +36,8 @@ Sesudah menginstall file node_modules, silahkan extract file ```node_modules.zip
 $ node index.js
 ```
 
-![gue hitam putih](https://user-images.githubusercontent.com/68543155/90979473-76811600-e57f-11ea-8aa7-fbb6ab46b3c0.jpg)
+![bohemia](https://user-images.githubusercontent.com/68543155/222844662-b054bb2a-5642-4374-a2fe-2c41aa41d76a.jpg)
+
 ## Donate
 <a href="https://saweria.co/Sansekai" target="_blank"><img src="https://user-images.githubusercontent.com/26188697/180601310-e82c63e4-412b-4c36-b7b5-7ba713c80380.png" alt="Donate For Yusril" height="41" width="174"></a>
 
