@@ -15,12 +15,15 @@ Terdapat 2 fitur yaitu ```ChatGPT(text)``` dan ```DALL-E(Text To Image).```<br>U
 Install [NodeJS](https://nodejs.org/en/download/)
  dan [Git Bash](https://git-scm.com/downloads) terlebih dahulu
 ```bash
-$ git clone https://github.com/Sansekai/Wa-OpenAI
+$ https://github.com/bohemianskode/wa.bot.openai.git
 $ cd Wa-OpenAI
 $ npm install
 $ node index.js
 ```
 **Install on Termux ✅**
+
+
+![240_F_210576508_gciO2asiY7IB5sA7gSZEHrqXsSlQKctq](https://user-images.githubusercontent.com/68543155/222852450-ff32136f-aeb4-48c2-b0b5-40dae3f7544f.jpg)
 
 Silakan install manual ```node_modules``` terlebih dahulu, karena di termux saat install otomatis melalui ```npm install``` terjadi error.
 <br>Link ```node_modules```: [Klik Disini](https://drive.google.com/file/d/1xgRIwDVuTklxwdtsx933WfmzqtRxEsGV/view?usp=share_link)
